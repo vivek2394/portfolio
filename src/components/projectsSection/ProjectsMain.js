@@ -23,7 +23,7 @@ const projects = [
     year: "Mar2024",
     align: "right",
     image: "images/website-img-3.jpg",
-    link: "#",
+    link: "https://portfolio-liart-zeta-86.vercel.app/",
   },
 
 ];
